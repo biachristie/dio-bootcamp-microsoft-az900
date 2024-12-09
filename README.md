@@ -45,7 +45,7 @@
 * Processamento, logs e rede com Docker ✔️ 
 * Definição e criação de um Docker File ✔️ 
 * Trabalhando com Docker Compose ✔️ 
-* **Desafio**: [Utilização prática no cenário de microsserviços]()
+* **Desafio**: [Utilização prática no cenário de microsserviços](https://github.com/biachristie/dio-bootcamp-microsoft-ai102/tree/main/Desafio_02) ✔️
 * **Desafio de código**: Explorando contêineres com lógica de programação ✔️
 * Desafio de código: Aperfeiçoe sua lógica e pensamento computacional ✔️
 
@@ -61,7 +61,7 @@
 * Conceitos básicos sobre pods em Kubernetes ✔️
 * Serviços de acesso para Kubernetes Pods ✔️
 * Persistência de dados em *clusters* Kubernetes ✔️
-* **Desafio**: [Criando um *pipeline* de *deploy* de uma aplicação utilizando Gitlab, Docker e Kubernetes]()
+* **Desafio**: [Criando um *pipeline* de *deploy* de uma aplicação utilizando Gitlab, Docker e Kubernetes](https://gitlab.com/biachristie/dio-gitlab-cicd-app-base) ✔️
 * **Desafio de código**: Explorando Kubernetes com lógica de programação ✔️
 
 
@@ -73,7 +73,7 @@
 * Azure API *Management Dashboard* ✔️
 * Introdução a engenharia de dados na Azure ✔️
 * Introdução aos conceitos de *serverless* e Azure *Functions* ✔️
-* **Desafio**: [Trabalhando aplicações *serverless* na Azure]()
+* **Desafio**: [Trabalhando com aplicações *serverless* na Azure](https://github.com/biachristie/dio-bootcamp-microsoft-ai102/tree/main/Desafio_06) ✔️
 
 
 <br>
